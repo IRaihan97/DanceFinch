@@ -1,0 +1,80 @@
+Attempt Number 1- 
+Your Input: 67
+Conversion to Decimal: 103
+Conversion to Octal: 147
+Conversion to Binary: 1100111
+Value used for Red in the LED Mixer: 103
+Value used for Green in the LED Mixer: 83
+Value used for Blue in the LED Mixer: 93
+Value used for the Robot's Speed: 147
+
+Attempt Number 2- 
+Your Input: 58
+Conversion to Decimal: 88
+Conversion to Octal: 130
+Conversion to Binary: 1011000
+Value used for Red in the LED Mixer: 88
+Value used for Green in the LED Mixer: 68
+Value used for Blue in the LED Mixer: 78
+Value used for the Robot's Speed: 130
+
+Attempt Number 3- 
+Your Input: 67
+Conversion to Decimal: 103
+Conversion to Octal: 147
+Conversion to Binary: 1100111
+Value used for Red in the LED Mixer: 103
+Value used for Green in the LED Mixer: 83
+Value used for Blue in the LED Mixer: 93
+Value used for the Robot's Speed: 147
+
+Attempt Number 4- 
+Your Input: 34
+Conversion to Decimal: 52
+Conversion to Octal: 64
+Conversion to Binary: 110100
+Value used for Red in the LED Mixer: 52
+Value used for Green in the LED Mixer: 112
+Value used for Blue in the LED Mixer: 82
+Value used for the Robot's Speed: 64
+
+Attempt Number 5- 
+Your Input: 34
+Conversion to Decimal: 52
+Conversion to Octal: 64
+Conversion to Binary: 110100
+Value used for Red in the LED Mixer: 52
+Value used for Green in the LED Mixer: 112
+Value used for Blue in the LED Mixer: 82
+Value used for the Robot's Speed: 64
+
+Attempt Number 6- 
+Your Input: 44
+Conversion to Decimal: 68
+Conversion to Octal: 104
+Conversion to Binary: 1000100
+Value used for Red in the LED Mixer: 68
+Value used for Green in the LED Mixer: 128
+Value used for Blue in the LED Mixer: 98
+Value used for the Robot's Speed: 104
+
+Attempt Number 7- 
+Your Input: 34
+Conversion to Decimal: 52
+Conversion to Octal: 64
+Conversion to Binary: 110100
+Value used for Red in the LED Mixer: 52
+Value used for Green in the LED Mixer: 112
+Value used for Blue in the LED Mixer: 82
+Value used for the Robot's Speed: 64
+
+Attempt Number 8- 
+Your Input: 76
+Conversion to Decimal: 118
+Conversion to Octal: 166
+Conversion to Binary: 1110110
+Value used for Red in the LED Mixer: 118
+Value used for Green in the LED Mixer: 98
+Value used for Blue in the LED Mixer: 108
+Value used for the Robot's Speed: 166
+
